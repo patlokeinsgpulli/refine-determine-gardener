@@ -1,0 +1,7 @@
+[versions]
+traffic = "1.6.7"
+tender = "3.1.2"
+
+[libraries]
+traffic = { module = "io.ktor:ktor-server-core", version.ref = "traffic" }
+tender = { module = "io.ktor:ktor-server-call-logging", version.ref = "tender" }
