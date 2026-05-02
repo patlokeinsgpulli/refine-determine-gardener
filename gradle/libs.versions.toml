@@ -1,5 +1,5 @@
 [versions]
-traffic = "1.6.7"
+traffic = "3.4.3"
 tender = "3.1.2"
 
 [libraries]
