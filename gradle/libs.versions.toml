@@ -1,6 +1,6 @@
 [versions]
 traffic = "1.6.7"
-tender = "3.1.2"
+tender = "3.4.3"
 
 [libraries]
 traffic = { module = "io.ktor:ktor-server-core", version.ref = "traffic" }
